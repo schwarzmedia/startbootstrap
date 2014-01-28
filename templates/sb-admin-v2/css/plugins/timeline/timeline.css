@@ -88,7 +88,7 @@
     font-size: 1.4em;
     line-height: 50px;
     color: #fff;
-    background-color: #999999;
+    background-color: #cfd3dc;
 }
 
 .timeline > li.timeline-inverted > .timeline-panel {
@@ -114,19 +114,19 @@
 }
 
 .timeline-badge.success {
-    background-color: #3f903f !important;
+    background-color: #94b95c !important;
 }
 
 .timeline-badge.warning {
-    background-color: #f0ad4e !important;
+    background-color: #f6bf05 !important;
 }
 
 .timeline-badge.danger {
-    background-color: #d9534f !important;
+    background-color: #fb8661 !important;
 }
 
 .timeline-badge.info {
-    background-color: #5bc0de !important;
+    background-color: #59bee0 !important;
 }
 
 .timeline-title {

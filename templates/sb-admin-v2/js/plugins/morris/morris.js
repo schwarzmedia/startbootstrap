@@ -729,7 +729,7 @@
     Line.prototype.defaults = {
       lineWidth: 3,
       pointSize: 4,
-      lineColors: ['#0b62a4', '#7A92A3', '#4da74d', '#afd8f8', '#edc240', '#cb4b4b', '#9440ed'],
+      lineColors: ['#4189cc', '#59bee0', '#12b5ac', '#b3dbf6', '#f6e082', '#fb8661', '#9a70b6'],
       pointStrokeWidths: [1],
       pointStrokeColors: ['#ffffff'],
       pointFillColors: [],
@@ -1409,7 +1409,7 @@
     Bar.prototype.defaults = {
       barSizeRatio: 0.75,
       barGap: 3,
-      barColors: ['#0b62a4', '#7a92a3', '#4da74d', '#afd8f8', '#edc240', '#cb4b4b', '#9440ed'],
+      barColors: ['#4189cc', '#7a92a3', '#12b5ac', '#b3dbf6', '#f6e082', '#fb8661', '#9a70b6'],
       barOpacity: 1.0,
       barRadius: [0, 0, 0, 0],
       xLabelMargin: 50
@@ -1627,7 +1627,7 @@
     __extends(Donut, _super);
 
     Donut.prototype.defaults = {
-      colors: ['#0B62A4', '#3980B5', '#679DC6', '#95BBD7', '#B0CCE1', '#095791', '#095085', '#083E67', '#052C48', '#042135'],
+      colors: ['#4189cc', '#59bee0', '#12b5ac', '#b3dbf6', '#f6e082', '#fb8661', '#9a70b6', '#083E67', '#052C48', '#042135'],
       backgroundColor: '#FFFFFF',
       labelColor: '#000000',
       formatter: Morris.commas,
